@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeninaah-hamilton
 - 👀 I’m interested in engineering internships
-- 🌱 I’m currently learning engineering
+- 🌱 I’m currently learning engineering @ UBC
 - 💞️ I’m looking to collaborate on any programming projects
 - 📫 How to reach me jeninaahhamilton@gmail.com
 - 😄 Pronouns: she/her
